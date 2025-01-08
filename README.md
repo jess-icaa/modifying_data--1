@@ -1,4 +1,4 @@
-You have been hired by a local restaurant to develop a simplified backend system for managing their online menu. The restaurant needs the following functionality:
+`You have been hired by a local restaurant to develop a simplified backend system for managing their online menu. The restaurant needs the following functionality:
 
 - Add new menu items to their database.
 
@@ -45,7 +45,7 @@ Responds with an array of MenuItem objects (or an error message if something goe
 - Implement basic validation in Mongoose or in the request-handling logic (e.g., required fields).
 - Return a descriptive error message if the required data is missing or incorrect.
 
-
+`
 # **How to Fork and Set Up Your Repository**
 
 ---
